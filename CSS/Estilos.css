@@ -1,0 +1,6 @@
+header{ background-color:#00ffff;
+color:#EE82EE;}
+#contenidocabezera {display:flex;}
+.imagentitulo {flex:1;
+height:30px;}
+#logotipo {height:100px;}
